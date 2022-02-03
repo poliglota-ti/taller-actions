@@ -1,7 +1,7 @@
 name: Test 001 code check
 
 on:
-  :push
+  push:
 
 jobs:
   static-analysis:
